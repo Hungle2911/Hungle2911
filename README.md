@@ -9,7 +9,7 @@
 <a href="https://resume.creddle.io/resume/cwgl6rt1upv" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
-<a href="https://github.com/Hungle2911" target="_blank">
+<a href="https://william-le.vercel.app/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 <br>
