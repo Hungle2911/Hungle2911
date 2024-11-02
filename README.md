@@ -28,11 +28,11 @@ Outside of work, I love playing with computers and making cool stuff happen. I l
 
 # <h2 align="center">Featured Projects</h2>
 
-| Project Name                                                                        | Description                                                                         |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| _[Feline Good - Appointment Booking System](https://github.com/Hungle2911/pet-hub)_ | Website for local cat owner to connect and book appointment with nearby cat sitters |
-| _[Calsifer's Hearth - Food Ordering System](https://github.com/robotsch/Foodie)_    | Website to order foods from your favorite Ghibli anime                              |
-| _[Rarecipe - Recipe Sharing System](https://github.com/Hungle2911/rarecipe)_        | Website to check out all types of recipes                                           |
+| Project Name                                                                                        | Description                                                                         |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| _[Feline Good - Appointment Booking System](https://github.com/Hungle2911/pet-hub)_                 | Website for local cat owner to connect and book appointment with nearby cat sitters |
+| _[Calsifer's Hearth - Food Ordering System](https://github.com/Hungle2911/food-order-pickup-react)_ | Website to order foods from your favorite Ghibli anime                              |
+| _[Rarecipe - Recipe Sharing System](https://github.com/Hungle2911/rarecipe)_                        | Website to check out all types of recipes                                           |
 
 # <h2 align="center">Tech Stack</h2>
 
